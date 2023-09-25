@@ -1,45 +1,103 @@
-id,category,name,Gout,image,real_name
-0,regalo,regalo,butter,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-beurre-600x600.jpg,butter
-1,regalo,cookies,basic,https://palmaryfood.com/wp-content/uploads/2021/05/Cooki-600x600.jpg,cookies
-2,regalo,digestive,digestive,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-Digestif-600x600.jpg,digestive
-3,regalo,digestive,chocolate,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-chocolat-600x600.jpg,digestive – chocolate
-4,regalo,digestive,milk,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-lait-600x600.jpg,digestive – milk
-5,regalo,digestive,peanut,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-arachidt-600x600.jpg,digestive – peanut
-6,regalo,regalo,hazelnut ,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-noisette-x4-600x600.jpg,hazelnut – family
-9,kool,spread,basic,https://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-4-1-600x600.jpg,– spread
-10,kool,break,chocolate,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-break-600x600.jpg,break
-12,kool,kool,chocolate,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-x4-600x600.jpg,chocolate – large format
-15,kool,kool,raspberry,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-fr-x4-600x600.jpg,raspberry – large format
-17,palmary,dondy,almond,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-amande-600x600.jpg,raspberry 4x
-18,palmary,dondy,caramel,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-choco-600x600.jpg,raspberry 8x
-19,palmary,dondy,coconut,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-coco-600x600.jpg,dondy – caramel
-20,palmary,dondy,raspberry,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-framboise-600x600.jpg,dondy – raspberry
-21,palmary,dondy,strawberry,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-fraise-600x600.jpg,dondy – strawberry
-22,palmary,dream,choco,https://palmaryfood.com/wp-content/uploads/2021/05/dream-choco-600x600.jpg,dream – choco
-23,palmary,dream,raspberry,https://palmaryfood.com/wp-content/uploads/2021/05/dream-framboise-600x600.jpg,dream – raspberry
-24,palmary,dream,strawberry,https://palmaryfood.com/wp-content/uploads/2021/05/dream-fraise-600x600.jpg,dream – strawberry
-25,palmary,dream,vanilia,https://palmaryfood.com/wp-content/uploads/2021/05/dream-vanille-600x600.jpg,dream – vanilia
-26,palmary,kremali,kremali,https://palmaryfood.com/wp-content/uploads/2021/05/Kremali-blanc-choco-600x600.jpg,kremali
-27,palmary,kremali,chocolate,https://palmaryfood.com/wp-content/uploads/2021/05/Kremali-choco-choco-600x600.jpg,kremali – choco
-28,palmary,kremali,orange,https://palmaryfood.com/wp-content/uploads/2021/05/Kremali-orange-600x600.jpg,kremali – orange
-29,maxon,bar,caramel,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-caramel-600x600.jpg,bar – caramel
-30,maxon,bar,dark,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-noir-600x600.jpg,bar – dark
-31,maxon,bar,hazelnut,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-noisette-600x600.jpg,bar – hazelnut
-32,maxon,bar,milk,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-lait-600x600.jpg,bar – milk
-33,maxon,bar,orange,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-orange-600x600.jpg,bar – orange
-34,maxon,bar,strawberry,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-fraise-600x600.jpg,bar – strawberry
-38,maxon,spread,chocolate,https://palmaryfood.com/wp-content/uploads/2021/05/700g-600x600.jpg,chocolate spread – 1kg
-39,maxon,coated cookie,chocolate,https://palmaryfood.com/wp-content/uploads/2021/05/X-600x600.jpg,coated cookie
-40,maxon,coated wafer,chocolate,https://palmaryfood.com/wp-content/uploads/2022/03/Sur-fond51-600x600.jpg,coated wafer
-41,moment,biscuits chips,basic,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-momentd-600x600.jpg,biscuits chips
-42,moment,black,chocolate,https://palmaryfood.com/wp-content/uploads/2021/04/Moment-noir-600x600.jpg,black
-43,moment,dessert,chocolate,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dessert-55-600x600.jpg,dessert 55%
-44,moment,dessert,chocolate,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dessert-65-600x600.jpg,dessert 65%
-45,moment,dessert,milk,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dessert-Lait-600x600.jpg,dessert milk
-46,moment,golden,golden,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dore-600x600.jpg,golden
-47,moment,chips,grape and hazelnut,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-momentppp-600x600.jpg,grape and hazelnut chips
-48,moment,moment,hazelnut,https://palmaryfood.com/wp-content/uploads/2021/04/Moment-noisette-600x600.jpg,hazelnut
-49,moment,moment,hazelnut ,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-moment45-600x600.jpg,hazelnut chips
-50,moment,praline,praline,https://palmaryfood.com/wp-content/uploads/2021/04/Moment-praline-600x600.jpg,praline
-51,moment,moment,white ,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-moment8484-600x600.jpg,white biscuits chips
-52,moment,praline,white praline,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-moment8484gh-600x600.jpg,white praline
+category,name,taste,img
+regalo,butter,butter,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-beurre-600x600.jpg
+regalo,cookies,cookies,https://palmaryfood.com/wp-content/uploads/2021/05/Cooki-600x600.jpg
+regalo,digestive,digestive,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-Digestif-600x600.jpg
+regalo,digestive – chocolate,digestive – chocolate,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-chocolat-600x600.jpg
+regalo,digestive – milk,digestive – milk,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-lait-600x600.jpg
+regalo,digestive – peanut,digestive – peanut,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-arachidt-600x600.jpg
+regalo,hazelnut – 4x,hazelnut – 4x,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-noisette-x4-600x600.jpg
+regalo,hazelnut – 8x,hazelnut – 8x,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-noisette-x8-600x600.jpg
+regalo,hazelnut – family,hazelnut – family,https://palmaryfood.com/wp-content/uploads/2021/04/Regalo-noisette-Familly-600x600.jpg
+kool,– spread,– spread,https://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-4-1-600x600.jpg
+kool,break,break,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-break-600x600.jpg
+kool,chocolate – large format,chocolate – large format,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-GF-600x600.jpg
+kool,chocolate 4x,chocolate 4x,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-x4-600x600.jpg
+kool,chocolate 8x,chocolate 8x,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-x8-600x600.jpg
+kool,raspberry – large format,raspberry – large format,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-fr-GF-600x600.jpg
+kool,raspberry 4x,raspberry 4x,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-fr-x4-600x600.jpg
+kool,raspberry 8x,raspberry 8x,https://palmaryfood.com/wp-content/uploads/2021/04/Kool-fr-x8-600x600.jpg
+palmary,dondy – almond,dondy – almond,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-amande-600x600.jpg
+palmary,dondy – caramel,dondy – caramel,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-choco-600x600.jpg
+palmary,dondy – coconut,dondy – coconut,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-coco-600x600.jpg
+palmary,dondy – raspberry,dondy – raspberry,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-framboise-600x600.jpg
+palmary,dondy – strawberry,dondy – strawberry,https://palmaryfood.com/wp-content/uploads/2021/05/Dondy-fraise-600x600.jpg
+palmary,dream – choco,dream – choco,https://palmaryfood.com/wp-content/uploads/2021/05/dream-choco-600x600.jpg
+palmary,dream – raspberry,dream – raspberry,https://palmaryfood.com/wp-content/uploads/2021/05/dream-framboise-600x600.jpg
+palmary,dream – strawberry,dream – strawberry,https://palmaryfood.com/wp-content/uploads/2021/05/dream-fraise-600x600.jpg
+palmary,dream – vanilia,dream – vanilia,https://palmaryfood.com/wp-content/uploads/2021/05/dream-vanille-600x600.jpg
+palmary,kremali,kremali,https://palmaryfood.com/wp-content/uploads/2021/05/Kremali-blanc-choco-600x600.jpg
+palmary,kremali – choco,kremali – choco,https://palmaryfood.com/wp-content/uploads/2021/05/Kremali-choco-choco-600x600.jpg
+palmary,kremali – orange,kremali – orange,https://palmaryfood.com/wp-content/uploads/2021/05/Kremali-orange-600x600.jpg
+palmary,kremali – vanilia,kremali – vanilia,http://palmaryfood.com/wp-content/uploads/2021/05/Kremali-vanille-600x600.jpg
+palmary,mega dream – choco,mega dream – choco,http://palmaryfood.com/wp-content/uploads/2021/05/Mega-dream-choco-600x600.jpg
+palmary,mega dream – raspberry,mega dream – raspberry,http://palmaryfood.com/wp-content/uploads/2021/05/Mega-dream-framboise-600x600.jpg
+palmary,mega dream – strawberry,mega dream – strawberry,http://palmaryfood.com/wp-content/uploads/2021/05/Mega-dream-fraise-600x600.jpg
+palmary,mon gouter – choco,mon gouter – choco,http://palmaryfood.com/wp-content/uploads/2021/05/Mongouter-choco-600x600.jpg
+palmary,mon gouter – raspberry,mon gouter – raspberry,http://palmaryfood.com/wp-content/uploads/2021/05/Mongouter-framboise-600x600.jpg
+palmary,mon gouter – vanilia,mon gouter – vanilia,http://palmaryfood.com/wp-content/uploads/2021/05/Mongouter-vanille-600x600.jpg
+palmary,sandwich – capuccino,sandwich – capuccino,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-cafe-600x600.jpg
+palmary,sandwich – choco hazelnut,sandwich – choco hazelnut,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-cho-noisette-600x600.jpg
+palmary,sandwich – hazelnut,sandwich – hazelnut,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-noisette-600x600.jpg
+palmary,sandwich – lemon,sandwich – lemon,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-citron-600x600.jpg
+palmary,sandwich – raspberry,sandwich – raspberry,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-framboise-600x600.jpg
+palmary,sandwich – strawberry,sandwich – strawberry,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-fraise-600x600.jpg
+palmary,sandwich – vanilia,sandwich – vanilia,http://palmaryfood.com/wp-content/uploads/2021/05/Palmary-vanille-600x600.jpg
+maxon,bar – caramel,bar – caramel,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-caramel-600x600.jpg
+maxon,bar – dark,bar – dark,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-noir-600x600.jpg
+maxon,bar – hazelnut,bar – hazelnut,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-noisette-600x600.jpg
+maxon,bar – milk,bar – milk,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-lait-600x600.jpg
+maxon,bar – orange,bar – orange,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-orange-600x600.jpg
+maxon,bar – strawberry,bar – strawberry,https://palmaryfood.com/wp-content/uploads/2021/05/maxon-bar-fraise-600x600.jpg
+maxon,chocolate spread – 1kg,chocolate spread – 1kg,https://palmaryfood.com/wp-content/uploads/2021/05/1kg-600x600.jpg
+maxon,chocolate spread – 200g,chocolate spread – 200g,https://palmaryfood.com/wp-content/uploads/2021/05/Maxon-white-1-600x600.jpg
+maxon,chocolate spread – 350g,chocolate spread – 350g,https://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-3qx-1-600x600.jpg
+maxon,chocolate spread – 700g,chocolate spread – 700g,https://palmaryfood.com/wp-content/uploads/2021/05/700g-600x600.jpg
+maxon,coated cookie,coated cookie,https://palmaryfood.com/wp-content/uploads/2021/05/X-600x600.jpg
+maxon,coated wafer,coated wafer,https://palmaryfood.com/wp-content/uploads/2022/03/Sur-fond51-600x600.jpg
+maxon,cookies,cookies,http://palmaryfood.com/wp-content/uploads/2021/05/Cookies-600x600.jpg
+maxon,cookies – cacao,cookies – cacao,http://palmaryfood.com/wp-content/uploads/2021/05/Cookies-choco-600x600.jpg
+maxon,cookies – peanut,cookies – peanut,http://palmaryfood.com/wp-content/uploads/2021/05/Cookies-cacahuettes-600x600.jpg
+maxon,cooking tablet – dark,cooking tablet – dark,http://palmaryfood.com/wp-content/uploads/2021/05/Mac-noir-600x600.jpg
+maxon,cooking tablet – milk,cooking tablet – milk,http://palmaryfood.com/wp-content/uploads/2021/05/Mac-Lait-600x600.jpg
+maxon,cooking tablet – white,cooking tablet – white,http://palmaryfood.com/wp-content/uploads/2021/05/Maxon-white-600x600.jpg
+maxon,filled biscuit – chocolate,filled biscuit – chocolate,http://palmaryfood.com/wp-content/uploads/2021/05/Sur-fondx-600x600.jpg
+maxon,filled biscuit – chocolate – family,filled biscuit – chocolate – family,http://palmaryfood.com/wp-content/uploads/2021/05/Sur-fondwww-1-600x600.jpg
+maxon,filled biscuit – strawberry,filled biscuit – strawberry,http://palmaryfood.com/wp-content/uploads/2021/05/Petit-biscuit-Maxon-R-600x600.jpg
+maxon,filled biscuit – strawberry – family,filled biscuit – strawberry – family,http://palmaryfood.com/wp-content/uploads/2021/05/Family-maxon-fraise-600x600.jpg
+maxon,filled biscuit – vanilla,filled biscuit – vanilla,http://palmaryfood.com/wp-content/uploads/2021/05/Sur-fond-600x600.jpg
+maxon,filled biscuit – vanilla – family,filled biscuit – vanilla – family,http://palmaryfood.com/wp-content/uploads/2021/05/wwx-1-600x600.jpg
+maxon,filled cookie – xl,filled cookie – xl,http://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-3wq-600x600.jpg
+maxon,filled cookie – xl – choco,filled cookie – xl – choco,http://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-3w-600x600.jpg
+maxon,filled cookie – xl – vanilla,filled cookie – xl – vanilla,http://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-3-600x600.jpg
+maxon,maxi roll,maxi roll,http://palmaryfood.com/wp-content/uploads/2021/05/Rolls-600x600.jpg
+maxon,mini roll 5x,mini roll 5x,http://palmaryfood.com/wp-content/uploads/2021/05/Mini-rolls-600x600.jpg
+maxon,tablet – almond cream,tablet – almond cream,http://palmaryfood.com/wp-content/uploads/2021/05/Amande-600x600.jpg
+maxon,tablet – almonds,tablet – almonds,http://palmaryfood.com/wp-content/uploads/2021/05/lait-et-amande-600x600.jpg
+maxon,tablet – black,tablet – black,http://palmaryfood.com/wp-content/uploads/2021/05/noir-600x600.jpg
+maxon,tablet – caramel cream,tablet – caramel cream,http://palmaryfood.com/wp-content/uploads/2021/05/caramel-600x600.jpg
+maxon,tablet – cookie chips,tablet – cookie chips,http://palmaryfood.com/wp-content/uploads/2021/05/Eclat-de-biscuits-600x600.jpg
+maxon,tablet – dark cream,tablet – dark cream,http://palmaryfood.com/wp-content/uploads/2021/05/Noirfouree-noir-600x600.jpg
+maxon,tablet – dessert,tablet – dessert,http://palmaryfood.com/wp-content/uploads/2021/05/desset-600x600.jpg
+maxon,tablet – dragees,tablet – dragees,http://palmaryfood.com/wp-content/uploads/2021/05/Drages-600x600.jpg
+maxon,tablet – hazelnut cream,tablet – hazelnut cream,http://palmaryfood.com/wp-content/uploads/2021/05/Noisette-600x600.jpg
+maxon,tablet – milk,tablet – milk,http://palmaryfood.com/wp-content/uploads/2021/05/lait-600x600.jpg
+maxon,tablet – orange,tablet – orange,http://palmaryfood.com/wp-content/uploads/2021/05/orange-600x600.jpg
+maxon,tablet – peanuts,tablet – peanuts,http://palmaryfood.com/wp-content/uploads/2021/05/Lait-creme-cacahuete-600x600.jpg
+maxon,tablet – peanuts chips,tablet – peanuts chips,http://palmaryfood.com/wp-content/uploads/2021/05/Lait-cacahuete-600x600.jpg
+maxon,tablet – strawberry cream,tablet – strawberry cream,http://palmaryfood.com/wp-content/uploads/2021/05/fraise-600x600.jpg
+maxon,wafer,wafer,http://palmaryfood.com/wp-content/uploads/2021/05/Gaufrette-blanche-600x600.jpg
+maxon,wafer,wafer,http://palmaryfood.com/wp-content/uploads/2021/05/Sans-titre-354-600x600.jpg
+maxon,wafer – cacao,wafer – cacao,http://palmaryfood.com/wp-content/uploads/2021/05/Gaufrette-chocolat-600x600.jpg
+moment,biscuits chips,biscuits chips,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-momentd-600x600.jpg
+moment,black,black,https://palmaryfood.com/wp-content/uploads/2021/04/Moment-noir-600x600.jpg
+moment,dessert 55%,dessert 55%,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dessert-55-600x600.jpg
+moment,dessert 65%,dessert 65%,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dessert-65-600x600.jpg
+moment,dessert milk,dessert milk,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dessert-Lait-600x600.jpg
+moment,golden,golden,https://palmaryfood.com/wp-content/uploads/2021/05/Moment-dore-600x600.jpg
+moment,grape and hazelnut chips,grape and hazelnut chips,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-momentppp-600x600.jpg
+moment,hazelnut,hazelnut,https://palmaryfood.com/wp-content/uploads/2021/04/Moment-noisette-600x600.jpg
+moment,hazelnut chips,hazelnut chips,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-moment45-600x600.jpg
+moment,praline,praline,https://palmaryfood.com/wp-content/uploads/2021/04/Moment-praline-600x600.jpg
+moment,white biscuits chips,white biscuits chips,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-moment8484-600x600.jpg
+moment,white praline,white praline,https://palmaryfood.com/wp-content/uploads/2022/03/surfond-moment8484gh-600x600.jpg
+moment,with milk,with milk,http://palmaryfood.com/wp-content/uploads/2021/04/Moment-lait-600x600.jpg
